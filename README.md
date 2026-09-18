@@ -3,7 +3,7 @@
 🔍 Skilled in:
 - Data Cleaning, Transformation & Visualization  
 - SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Power BI & Tableau for interactive dashboards  
+- Power BI for interactive dashboards  
 - Data Modeling & Star Schema design  
 
 📊 What I do:
