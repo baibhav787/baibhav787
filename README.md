@@ -14,6 +14,8 @@
 🚀 Current Focus:
 Exploring advanced analytics, predictive modeling, and storytelling with data.  
 
+## 📚 Projects:
+🧬 A glimpse into what I’m creating. Portfolio
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baibhav787) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baibhavdandsena@gmail.com) 
